@@ -7,7 +7,6 @@ Turkish Instruction
 /*
 *	@Bottay V3 Ultimate Hacking IRC Bot
 *	@Coded By Burtay
-*	E. Burtay Sahin
 *	
 *	@Mail 	: admin@burtay.org
 *	@Jabber : burtay@jabber.org
