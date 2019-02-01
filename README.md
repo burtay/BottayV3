@@ -15,7 +15,7 @@ Turkish Instruction
 *	@Comunity Website : http://www.janissaries.Org
 *	Bottay V3 Direct Link = www.http://www.burtay.org/development_area/bottay/BottayV3B3.zip
 *
-*	(This Document contains only Turkish manuel)
+*	(Turkish Manual)
 *	BottayV3 IRC server Uzerinden çalışmak üzere tasarlanış olup pcntl_fork() fonksiyonu kullandığı için
 *	sadece Linux Makinalarda çalışabilir.Bottay V3'ü ister standalone ,isterseniz java pluginleri
 *	ile kullanabilirsiniz.Standalone kullanımlarda pcntl_fork() fonksiyonu üzerinden komut aldığından
