@@ -4,6 +4,7 @@
 *	@Bottay V3 Ultimate Hacking IRC Bot
 *	@Coded By Burtay
 *	E. Burtay Sahin
+*	Hacı ne yapıyorsun görünmüyorsun ortalıklarda
 *	
 *	@Mail 	: admin@burtay.org
 *	@Jabber : burtay@jabber.org
